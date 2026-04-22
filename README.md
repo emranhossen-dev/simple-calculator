@@ -1,1 +1,2 @@
 # simple-calculator
+simple calc
